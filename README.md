@@ -1,2 +1,2 @@
 # lapis_on_openwrt
-lapis on openwrt
+http://gaxxx.github.io/2015/02/09/lapis-on-openwrt/
